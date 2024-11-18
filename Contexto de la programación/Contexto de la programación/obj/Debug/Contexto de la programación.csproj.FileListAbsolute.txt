@@ -1,0 +1,2 @@
+C:\Users\cesar\source\repos\Contexto de la programación\Contexto de la programación\obj\Debug\Contexto de la programación.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\Contexto de la programación\Contexto de la programación\obj\Debug\Contexto de la programación.csproj.CoreCompileInputs.cache
